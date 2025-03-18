@@ -19,7 +19,7 @@ I am passionate about **AI, Generative AI, and machine learning**, actively expl
 ## 🛠️ Technical Skills  
 
 ### **Programming Languages**  
-- Java, Python, C#, Dart, JavaScript, TypeScript, SQL, PL/SQL  
+- Java, Python, C#, Dart, JavaScript, TypeScript, SQL,   
 
 ### **Frontend Development**  
 - ReactJS, Next.js, Tailwind CSS, Shadcn UI, Bootstrap  
@@ -34,7 +34,7 @@ I am passionate about **AI, Generative AI, and machine learning**, actively expl
 - Git, GitHub, Jira, Bitbucket, Confluence, Postman, Docker, AWS, GCP  
 
 ### **Software Development Practices**  
-- Agile, SDLC, RESTful APIs, Unit Testing (JUnit, Mockito)  
+- Agile, SDLC, RESTful APIs 
 
 ---
 
